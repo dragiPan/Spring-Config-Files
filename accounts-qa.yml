@@ -5,7 +5,7 @@ contacts:
   message: "Welcome to Bank accounts Microservice QA"
   contactDetails:
     name: "Milan Stankovic - QA Lead"
-    email: "mila.stankovic1313@gmail.com"
+    email: "{cipher}eb58559e5b1db0552216f11e49ca675b5b442615046b9ac15530602b06b6488df55b552d84716e998b9ca96eef0a18cf"
   onCallSupport:
     - (+181) 4361242364
     - (+181) 3267885323

@@ -5,7 +5,7 @@ contacts:
   message: "Welcome to Bank loans Microservice Production"
   contactDetails:
     name: "Boban Rajovic - Product Owner"
-    email: "BobanovRaj-ovic@gmail.com"
+    email: "{cipher}cd6277c659fb655fb7165a28633baf77caaf86f677f0096a3d050a7003f2b79fa121e7f799a29054a70958af5c807d2d"
   onCallSupport:
     - (+77) 9189284759
     - (+77) 8928291273
