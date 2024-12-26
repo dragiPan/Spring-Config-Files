@@ -1,8 +1,8 @@
 build:
-  version: "1.0.0"
+  version: "1.1.1"
 
 contacts:
-  message: "Welcome to Bank accounts Microservice Production"
+  message: "Welcome to Bank accounts Microservice Prod"
   contactDetails:
     name: "Boban Rajovic - Product Owner"
     email: "{cipher}cd6277c659fb655fb7165a28633baf77caaf86f677f0096a3d050a7003f2b79fa121e7f799a29054a70958af5c807d2d"
