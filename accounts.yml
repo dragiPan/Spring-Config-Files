@@ -1,7 +1,7 @@
 build:
   version: "3.0.5"
 
-accounts:
+contacts:
   message: "Welcome to Bank accounts Microservice"
   contactDetails:
     name: "Dragi Pantović - Developer"
