@@ -4,7 +4,7 @@ build:
 contacts:
   message: "Welcome to Bank accounts Microservice"
   contactDetails:
-    name: "Dragi Pantović - Developer"
+    name: "Dragi Pantović - Developer No.1"
     email: "{cipher}296aa3cc22c7998802db3b28085773e217120ca04aa5a920cd87f19d870b85d81cf095cf41cd99b109e3d88a12b20e46"
   onCallSupport:
     - (+91) 9872109455
